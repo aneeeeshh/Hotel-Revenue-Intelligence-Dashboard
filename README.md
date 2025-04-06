@@ -61,9 +61,9 @@ To track, visualize, and forecast hotel performance metrics such as:
 
 I'm always open to feedback, collaboration, or discussing more on how data can drive smarter business decisions.
 
-**📧 Email:** your.email@example.com  
-**💼 LinkedIn:** (https://linkedin.com/in/aneeeeshhh)  
-**🌐 Portfolio:** (https://aneeeeshh.github.io/Portfolio/)
+**📧 Email:** aneeshgupta232@gmail.com
+**💼 LinkedIn:** https://linkedin.com/in/aneeeeshhh
+**🌐 Portfolio:** https://aneeeeshh.github.io/Portfolio/
 
 ---
 
